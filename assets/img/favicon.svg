@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="70 23 488 488">
+  <rect x="80" y="352" width="68" height="68" fill="#0A89CF"/>
+  <path d="M95 420V386.5a18.5 18.5 0 0 1 37 0V420z" fill="#FCC8A6"/>
+  <rect x="148" y="352" width="66" height="68" fill="#F64D2C"/>
+  <rect x="148" y="286" width="66" height="66" fill="#FCC8A6"/>
+  <rect x="148" y="300" width="66" height="12.5" fill="#0A89CF"/>
+  <rect x="148" y="326.5" width="66" height="12.5" fill="#0A89CF"/>
+  <polygon points="142.5,286.5 219.5,286.5 181,219" fill="#FFC830"/>
+  <polygon points="181,191 224,219 181,219" fill="#46A02A"/>
+  <path d="M214 352.5V319.5a33.5 33.5 0 0 1 67 0v33z" fill="#46A02A"/>
+  <rect x="281" y="286" width="133" height="66.5" fill="#FFC830"/>
+  <g fill="#F64D2C"><rect x="294" y="286" width="13.4" height="66.5"/><rect x="320.7" y="286" width="13.4" height="66.5"/><rect x="347.3" y="286" width="13.4" height="66.5"/><rect x="374" y="286" width="13.4" height="66.5"/><rect x="400.6" y="286" width="13.4" height="66.5"/></g>
+  <rect x="281" y="219" width="66.5" height="67.5" fill="#F64D2C"/>
+  <polygon points="276,219.5 352.5,219.5 314.2,152.5" fill="#FFC830"/>
+  <circle cx="303.5" cy="123" r="8.5" fill="#EF4B33"/>
+  <path d="M296 152.5c-1.5-12.5 5-22 16.5-22.5L335 128l-9.5 12 9.5 12.5z" fill="#EF4B33"/>
+  <polygon points="291,123.5 297,119.8 297,127" fill="#FFC830"/>
+  <path d="M214 352.5H414V420H359V404.5a44.5 44.5 0 0 0-89 0V420H214z" fill="#FFC830"/>
+  <path d="M270 420V404.5a44.5 44.5 0 0 1 89 0V420H349V404.5a34.5 34.5 0 0 0-69 0V420z" fill="#F64D2C"/>
+  <rect x="414" y="219" width="67" height="67" fill="#F64D2C"/>
+  <path d="M429 286V253.5a18.5 18.5 0 0 1 37 0V286z" fill="#FFC830"/>
+  <polygon points="410,219.5 487.5,219.5 449,151.5" fill="#46A02A"/>
+  <polygon points="449,124 491,151.5 449,151.5" fill="#0A89CF"/>
+  <rect x="414" y="286" width="67" height="134" fill="#46A02A"/>
+  <g fill="#fff"><rect x="434" y="272" width="3.6" height="148"/><rect x="457.4" y="272" width="3.6" height="148"/><rect x="434" y="287" width="27" height="3"/><rect x="434" y="306" width="27" height="3"/><rect x="434" y="325.5" width="27" height="3"/><rect x="434" y="344.5" width="27" height="3"/><rect x="434" y="363.5" width="27" height="3"/><rect x="434" y="382.5" width="27" height="3"/><rect x="434" y="402" width="27" height="3"/></g>
+  <rect x="481" y="352" width="67" height="68" fill="#FCC8A6"/>
+</svg>
